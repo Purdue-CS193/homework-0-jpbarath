@@ -2,6 +2,7 @@
 
 - Coding
 - Content
-- Short
+- It's short
 - Once a week
 - CS
+- The people
